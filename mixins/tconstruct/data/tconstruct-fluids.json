@@ -1,0 +1,1754 @@
+{
+ "buckets": {
+  "tconstruct:beetroot_soup": "tconstruct:beetroot_soup_bucket",
+  "tconstruct:blazing_blood": "tconstruct:blazing_blood_bucket",
+  "tconstruct:earth_slime": "tconstruct:earth_slime_bucket",
+  "tconstruct:ender_slime": "tconstruct:ender_slime_bucket",
+  "tconstruct:fiery_liquid": "tconstruct:fiery_liquid_bucket",
+  "tconstruct:honey": "tconstruct:honey_bucket",
+  "tconstruct:ichor": "tconstruct:ichor_bucket",
+  "tconstruct:liquid_soul": "tconstruct:liquid_soul_bucket",
+  "tconstruct:magma": "tconstruct:magma_bucket",
+  "tconstruct:meat_soup": "tconstruct:meat_soup_bucket",
+  "tconstruct:molten_aluminum": "tconstruct:molten_aluminum_bucket",
+  "tconstruct:molten_amethyst": "tconstruct:molten_amethyst_bucket",
+  "tconstruct:molten_amethyst_bronze": "tconstruct:molten_amethyst_bronze_bucket",
+  "tconstruct:molten_bendalloy": "tconstruct:molten_bendalloy_bucket",
+  "tconstruct:molten_brass": "tconstruct:molten_brass_bucket",
+  "tconstruct:molten_bronze": "tconstruct:molten_bronze_bucket",
+  "tconstruct:molten_cadmium": "tconstruct:molten_cadmium_bucket",
+  "tconstruct:molten_chromium": "tconstruct:molten_chromium_bucket",
+  "tconstruct:molten_cinderslime": "tconstruct:molten_cinderslime_bucket",
+  "tconstruct:molten_clay": "tconstruct:molten_clay_bucket",
+  "tconstruct:molten_cobalt": "tconstruct:molten_cobalt_bucket",
+  "tconstruct:molten_constantan": "tconstruct:molten_constantan_bucket",
+  "tconstruct:molten_copper": "tconstruct:molten_copper_bucket",
+  "tconstruct:molten_debris": "tconstruct:molten_debris_bucket",
+  "tconstruct:molten_diamond": "tconstruct:molten_diamond_bucket",
+  "tconstruct:molten_duralumin": "tconstruct:molten_duralumin_bucket",
+  "tconstruct:molten_electrum": "tconstruct:molten_electrum_bucket",
+  "tconstruct:molten_emerald": "tconstruct:molten_emerald_bucket",
+  "tconstruct:molten_ender": "tconstruct:molten_ender_bucket",
+  "tconstruct:molten_enderium": "tconstruct:molten_enderium_bucket",
+  "tconstruct:molten_glass": "tconstruct:molten_glass_bucket",
+  "tconstruct:molten_gold": "tconstruct:molten_gold_bucket",
+  "tconstruct:molten_hepatizon": "tconstruct:molten_hepatizon_bucket",
+  "tconstruct:molten_invar": "tconstruct:molten_invar_bucket",
+  "tconstruct:molten_iron": "tconstruct:molten_iron_bucket",
+  "tconstruct:molten_knightmetal": "tconstruct:molten_knightmetal_bucket",
+  "tconstruct:molten_knightslime": "tconstruct:molten_knightslime_bucket",
+  "tconstruct:molten_lead": "tconstruct:molten_lead_bucket",
+  "tconstruct:molten_lumium": "tconstruct:molten_lumium_bucket",
+  "tconstruct:molten_manyullyn": "tconstruct:molten_manyullyn_bucket",
+  "tconstruct:molten_netherite": "tconstruct:molten_netherite_bucket",
+  "tconstruct:molten_nickel": "tconstruct:molten_nickel_bucket",
+  "tconstruct:molten_nicrosil": "tconstruct:molten_nicrosil_bucket",
+  "tconstruct:molten_obsidian": "tconstruct:molten_obsidian_bucket",
+  "tconstruct:molten_osmium": "tconstruct:molten_osmium_bucket",
+  "tconstruct:molten_pewter": "tconstruct:molten_pewter_bucket",
+  "tconstruct:molten_pig_iron": "tconstruct:molten_pig_iron_bucket",
+  "tconstruct:molten_platinum": "tconstruct:molten_platinum_bucket",
+  "tconstruct:molten_porcelain": "tconstruct:molten_porcelain_bucket",
+  "tconstruct:molten_quartz": "tconstruct:molten_quartz_bucket",
+  "tconstruct:molten_queens_slime": "tconstruct:molten_queens_slime_bucket",
+  "tconstruct:molten_refined_glowstone": "tconstruct:molten_refined_glowstone_bucket",
+  "tconstruct:molten_refined_obsidian": "tconstruct:molten_refined_obsidian_bucket",
+  "tconstruct:molten_rose_gold": "tconstruct:molten_rose_gold_bucket",
+  "tconstruct:molten_signalum": "tconstruct:molten_signalum_bucket",
+  "tconstruct:molten_silver": "tconstruct:molten_silver_bucket",
+  "tconstruct:molten_slimesteel": "tconstruct:molten_slimesteel_bucket",
+  "tconstruct:molten_soulsteel": "tconstruct:molten_soulsteel_bucket",
+  "tconstruct:molten_steel": "tconstruct:molten_steel_bucket",
+  "tconstruct:molten_steeleaf": "tconstruct:molten_steeleaf_bucket",
+  "tconstruct:molten_tin": "tconstruct:molten_tin_bucket",
+  "tconstruct:molten_tungsten": "tconstruct:molten_tungsten_bucket",
+  "tconstruct:molten_uranium": "tconstruct:molten_uranium_bucket",
+  "tconstruct:molten_zinc": "tconstruct:molten_zinc_bucket",
+  "tconstruct:mushroom_stew": "tconstruct:mushroom_stew_bucket",
+  "tconstruct:potion": "tconstruct:potion_bucket",
+  "tconstruct:rabbit_stew": "tconstruct:rabbit_stew_bucket",
+  "tconstruct:scorched_stone": "tconstruct:scorched_stone_bucket",
+  "tconstruct:seared_stone": "tconstruct:seared_stone_bucket",
+  "tconstruct:sky_slime": "tconstruct:sky_slime_bucket",
+  "tconstruct:venom": "tconstruct:venom_bucket"
+ },
+ "entity_tags": {
+  "c:axolotls": [
+   "minecraft:axolotl"
+  ],
+  "c:bees": [
+   "minecraft:bee"
+  ],
+  "c:blazes": [
+   "minecraft:blaze"
+  ],
+  "c:bobber": [
+   "tconstruct:fishing_bobber"
+  ],
+  "c:creepers": [
+   "minecraft:creeper"
+  ],
+  "c:frogs": [
+   "minecraft:frog"
+  ],
+  "c:ghasts": [
+   "minecraft:ghast"
+  ],
+  "c:guardians": [
+   "minecraft:guardian",
+   "minecraft:elder_guardian"
+  ],
+  "c:illagers": [
+   "minecraft:evoker",
+   "minecraft:illusioner",
+   "minecraft:pillager",
+   "minecraft:vindicator",
+   "minecraft:witch"
+  ],
+  "c:phantoms": [
+   "minecraft:phantom"
+  ],
+  "c:piglins": [
+   "minecraft:piglin",
+   "minecraft:piglin_brute",
+   "minecraft:zombified_piglin"
+  ],
+  "c:reusable_ammo": [
+   "minecraft:trident",
+   "tconstruct:thrown_tool"
+  ],
+  "c:shulkers": [
+   "minecraft:shulker"
+  ],
+  "c:silverfish": [
+   "minecraft:silverfish"
+  ],
+  "c:slimes": [
+   "minecraft:slime",
+   "minecraft:magma_cube",
+   "tconstruct:sky_slime",
+   "tconstruct:ender_slime",
+   "tconstruct:terracube"
+  ],
+  "c:small_armor": [
+   "minecraft:slime",
+   "minecraft:magma_cube",
+   "tconstruct:sky_slime",
+   "tconstruct:ender_slime",
+   "tconstruct:terracube"
+  ],
+  "c:spiders": [
+   "minecraft:spider",
+   "minecraft:cave_spider"
+  ],
+  "c:squids": [
+   "minecraft:squid"
+  ],
+  "c:striders": [
+   "minecraft:strider"
+  ],
+  "c:tridents": [
+   "minecraft:trident",
+   "tconstruct:thrown_tool"
+  ],
+  "c:turtles": [
+   "minecraft:turtle"
+  ],
+  "c:villagers": [
+   "minecraft:villager",
+   "minecraft:wandering_trader",
+   "minecraft:zombie_villager"
+  ],
+  "minecraft:arrows": [
+   "tconstruct:arrow"
+  ],
+  "minecraft:frog_food": [
+   "tconstruct:sky_slime",
+   "tconstruct:ender_slime",
+   "tconstruct:terracube"
+  ],
+  "minecraft:skeletons": [
+   "minecraft:skeleton",
+   "minecraft:stray",
+   "minecraft:wither_skeleton",
+   "minecraft:bogged"
+  ],
+  "tconstruct:bacon_producer": [
+   "minecraft:pig",
+   "minecraft:piglin",
+   "minecraft:hoglin"
+  ],
+  "tconstruct:collectables": [
+   "minecraft:item",
+   "tconstruct:indestructible_item",
+   "minecraft:experience_orb",
+   "minecraft:trident",
+   "tconstruct:thrown_tool",
+   "minecraft:arrow",
+   "minecraft:spectral_arrow",
+   "tconstruct:arrow"
+  ],
+  "tconstruct:collectables/discardable": [
+   "minecraft:arrow",
+   "minecraft:spectral_arrow",
+   "tconstruct:arrow"
+  ],
+  "tconstruct:damage_modifier_blacklist": [
+   "minecraft:player"
+  ],
+  "tconstruct:enderference_arrow_blacklist": [
+   "minecraft:trident",
+   "tconstruct:thrown_tool"
+  ],
+  "tconstruct:killagers": [
+   "minecraft:villager",
+   "minecraft:wandering_trader",
+   "minecraft:zombie_villager",
+   "minecraft:evoker",
+   "minecraft:illusioner",
+   "minecraft:pillager",
+   "minecraft:vindicator",
+   "minecraft:witch",
+   "minecraft:iron_golem",
+   "minecraft:ravager"
+  ],
+  "tconstruct:meltable/drowned": [
+   "minecraft:drowned"
+  ],
+  "tconstruct:meltable/ender": [
+   "minecraft:enderman",
+   "minecraft:endermite",
+   "minecraft:ender_dragon"
+  ],
+  "tconstruct:meltable/farm_animals": [
+   "minecraft:chicken",
+   "minecraft:rabbit",
+   "minecraft:cow",
+   "minecraft:mooshroom",
+   "minecraft:pig",
+   "minecraft:hoglin",
+   "minecraft:sheep",
+   "minecraft:goat",
+   "minecraft:cod",
+   "minecraft:salmon",
+   "minecraft:tropical_fish"
+  ],
+  "tconstruct:meltable/magma": [
+   "minecraft:magma_cube"
+  ],
+  "tconstruct:meltable/skeleton": [
+   "minecraft:skeleton",
+   "minecraft:stray",
+   "minecraft:wither_skeleton",
+   "minecraft:bogged",
+   "minecraft:skeleton_horse"
+  ],
+  "tconstruct:meltable/slime": [
+   "minecraft:slime"
+  ],
+  "tconstruct:meltable/zombie": [
+   "minecraft:zombie",
+   "minecraft:husk",
+   "minecraft:zombie_horse"
+  ],
+  "tconstruct:melting/blacklist": [],
+  "tconstruct:melting/hide_in_default": [
+   "minecraft:giant"
+  ],
+  "tconstruct:melting/show_in_default": [
+   "minecraft:iron_golem",
+   "minecraft:snow_golem",
+   "minecraft:villager",
+   "minecraft:player"
+  ],
+  "tconstruct:necrotic_blacklist": [
+   "dummmmmmy:target_dummy"
+  ],
+  "tconstruct:piggybackpack_blacklist": [],
+  "tconstruct:reflecting/blacklist": [],
+  "tconstruct:reflecting/preserve_owner": [
+   "minecraft:fishing_bobber",
+   "tconstruct:fishing_bobber"
+  ]
+ },
+ "fallback": [
+  [
+   "gui.mantle.fluid.bucket",
+   1000
+  ]
+ ],
+ "hot": [
+  "tconstruct:blazing_blood",
+  "tconstruct:fiery_liquid",
+  "tconstruct:liquid_soul",
+  "tconstruct:molten_aluminum",
+  "tconstruct:molten_amethyst",
+  "tconstruct:molten_amethyst_bronze",
+  "tconstruct:molten_bendalloy",
+  "tconstruct:molten_brass",
+  "tconstruct:molten_bronze",
+  "tconstruct:molten_cadmium",
+  "tconstruct:molten_chromium",
+  "tconstruct:molten_cinderslime",
+  "tconstruct:molten_clay",
+  "tconstruct:molten_cobalt",
+  "tconstruct:molten_constantan",
+  "tconstruct:molten_copper",
+  "tconstruct:molten_debris",
+  "tconstruct:molten_diamond",
+  "tconstruct:molten_duralumin",
+  "tconstruct:molten_electrum",
+  "tconstruct:molten_emerald",
+  "tconstruct:molten_ender",
+  "tconstruct:molten_enderium",
+  "tconstruct:molten_glass",
+  "tconstruct:molten_gold",
+  "tconstruct:molten_hepatizon",
+  "tconstruct:molten_invar",
+  "tconstruct:molten_iron",
+  "tconstruct:molten_knightmetal",
+  "tconstruct:molten_knightslime",
+  "tconstruct:molten_lead",
+  "tconstruct:molten_lumium",
+  "tconstruct:molten_manyullyn",
+  "tconstruct:molten_netherite",
+  "tconstruct:molten_nickel",
+  "tconstruct:molten_nicrosil",
+  "tconstruct:molten_obsidian",
+  "tconstruct:molten_osmium",
+  "tconstruct:molten_pewter",
+  "tconstruct:molten_pig_iron",
+  "tconstruct:molten_platinum",
+  "tconstruct:molten_porcelain",
+  "tconstruct:molten_quartz",
+  "tconstruct:molten_queens_slime",
+  "tconstruct:molten_refined_glowstone",
+  "tconstruct:molten_refined_obsidian",
+  "tconstruct:molten_rose_gold",
+  "tconstruct:molten_signalum",
+  "tconstruct:molten_silver",
+  "tconstruct:molten_slimesteel",
+  "tconstruct:molten_soulsteel",
+  "tconstruct:molten_steel",
+  "tconstruct:molten_steeleaf",
+  "tconstruct:molten_tin",
+  "tconstruct:molten_tungsten",
+  "tconstruct:molten_uranium",
+  "tconstruct:molten_zinc",
+  "tconstruct:scorched_stone",
+  "tconstruct:seared_stone"
+ ],
+ "light": {
+  "tconstruct:blazing_blood": 15,
+  "tconstruct:fiery_liquid": 15,
+  "tconstruct:liquid_soul": 2,
+  "tconstruct:magma": 3,
+  "tconstruct:molten_aluminum": 12,
+  "tconstruct:molten_amethyst": 11,
+  "tconstruct:molten_amethyst_bronze": 12,
+  "tconstruct:molten_bendalloy": 9,
+  "tconstruct:molten_brass": 10,
+  "tconstruct:molten_bronze": 10,
+  "tconstruct:molten_cadmium": 10,
+  "tconstruct:molten_chromium": 13,
+  "tconstruct:molten_cinderslime": 10,
+  "tconstruct:molten_clay": 3,
+  "tconstruct:molten_cobalt": 8,
+  "tconstruct:molten_constantan": 10,
+  "tconstruct:molten_copper": 12,
+  "tconstruct:molten_debris": 14,
+  "tconstruct:molten_diamond": 13,
+  "tconstruct:molten_duralumin": 10,
+  "tconstruct:molten_electrum": 10,
+  "tconstruct:molten_emerald": 9,
+  "tconstruct:molten_ender": 5,
+  "tconstruct:molten_enderium": 12,
+  "tconstruct:molten_glass": 1,
+  "tconstruct:molten_gold": 12,
+  "tconstruct:molten_hepatizon": 8,
+  "tconstruct:molten_invar": 10,
+  "tconstruct:molten_iron": 12,
+  "tconstruct:molten_knightmetal": 10,
+  "tconstruct:molten_knightslime": 12,
+  "tconstruct:molten_lead": 12,
+  "tconstruct:molten_lumium": 15,
+  "tconstruct:molten_manyullyn": 11,
+  "tconstruct:molten_netherite": 14,
+  "tconstruct:molten_nickel": 12,
+  "tconstruct:molten_nicrosil": 14,
+  "tconstruct:molten_obsidian": 3,
+  "tconstruct:molten_osmium": 4,
+  "tconstruct:molten_pewter": 10,
+  "tconstruct:molten_pig_iron": 10,
+  "tconstruct:molten_platinum": 12,
+  "tconstruct:molten_porcelain": 2,
+  "tconstruct:molten_quartz": 6,
+  "tconstruct:molten_queens_slime": 9,
+  "tconstruct:molten_refined_glowstone": 15,
+  "tconstruct:molten_refined_obsidian": 7,
+  "tconstruct:molten_rose_gold": 12,
+  "tconstruct:molten_signalum": 13,
+  "tconstruct:molten_silver": 12,
+  "tconstruct:molten_slimesteel": 10,
+  "tconstruct:molten_soulsteel": 6,
+  "tconstruct:molten_steel": 13,
+  "tconstruct:molten_steeleaf": 10,
+  "tconstruct:molten_tin": 12,
+  "tconstruct:molten_tungsten": 12,
+  "tconstruct:molten_uranium": 15,
+  "tconstruct:molten_zinc": 12,
+  "tconstruct:scorched_stone": 4,
+  "tconstruct:seared_stone": 6
+ },
+ "named": {
+  "mantle:buckets": [
+   [
+    "gui.mantle.fluid.bucket",
+    1000
+   ]
+  ],
+  "mantle:fallback": [
+   [
+    "gui.mantle.fluid.bucket",
+    1000
+   ]
+  ],
+  "mantle:honey": [
+   [
+    "gui.mantle.fluid.bucket",
+    1000
+   ],
+   [
+    "gui.mantle.fluid.bottle",
+    250
+   ],
+   [
+    "gui.mantle.fluid.sip",
+    50
+   ]
+  ],
+  "mantle:potion": [
+   [
+    "gui.mantle.fluid.bottle",
+    250
+   ],
+   [
+    "gui.mantle.fluid.sip",
+    50
+   ]
+  ],
+  "mantle:soup": [
+   [
+    "gui.mantle.fluid.bowl",
+    250
+   ],
+   [
+    "gui.mantle.fluid.sip",
+    50
+   ]
+  ],
+  "mantle:water": [
+   [
+    "gui.mantle.fluid.bucket",
+    1000
+   ],
+   [
+    "gui.mantle.fluid.bottle",
+    250
+   ],
+   [
+    "gui.mantle.fluid.drop",
+    50
+   ]
+  ],
+  "tconstruct:alloyer": [
+   [
+    "gui.tconstruct.fluid.ingot",
+    90
+   ]
+  ],
+  "tconstruct:bottle": [
+   [
+    "gui.mantle.fluid.bucket",
+    1000
+   ],
+   [
+    "gui.mantle.fluid.bottle",
+    250
+   ],
+   [
+    "gui.mantle.fluid.drop",
+    50
+   ]
+  ],
+  "tconstruct:clay": [
+   [
+    "gui.tconstruct.fluid.block",
+    1000
+   ],
+   [
+    "gui.tconstruct.fluid.brick",
+    250
+   ]
+  ],
+  "tconstruct:foundry": [
+   [
+    "gui.tconstruct.fluid.ingot",
+    90
+   ]
+  ],
+  "tconstruct:glass": [
+   [
+    "gui.tconstruct.fluid.block",
+    1000
+   ],
+   [
+    "gui.tconstruct.fluid.pane",
+    250
+   ]
+  ],
+  "tconstruct:ingots": [
+   [
+    "gui.tconstruct.fluid.ingot",
+    90
+   ]
+  ],
+  "tconstruct:large_gems": [
+   [
+    "gui.tconstruct.fluid.block",
+    900
+   ],
+   [
+    "gui.tconstruct.fluid.gem",
+    100
+   ],
+   [
+    "gui.tconstruct.fluid.shard",
+    25
+   ]
+  ],
+  "tconstruct:melter": [
+   [
+    "gui.tconstruct.fluid.ingot",
+    90
+   ]
+  ],
+  "tconstruct:metals": [
+   [
+    "gui.tconstruct.fluid.block",
+    810
+   ],
+   [
+    "gui.tconstruct.fluid.ingot",
+    90
+   ],
+   [
+    "gui.tconstruct.fluid.nugget",
+    10
+   ]
+  ],
+  "tconstruct:slime": [
+   [
+    "gui.tconstruct.fluid.block",
+    2250
+   ],
+   [
+    "gui.tconstruct.fluid.slimeball",
+    250
+   ],
+   [
+    "gui.mantle.fluid.drop",
+    50
+   ]
+  ],
+  "tconstruct:small_gems": [
+   [
+    "gui.tconstruct.fluid.block",
+    400
+   ],
+   [
+    "gui.tconstruct.fluid.gem",
+    100
+   ],
+   [
+    "gui.tconstruct.fluid.shard",
+    25
+   ]
+  ],
+  "tconstruct:smeltery": [
+   [
+    "gui.tconstruct.fluid.ingot",
+    90
+   ]
+  ]
+ },
+ "tags": {
+  "c:beetroot_soup": [
+   "tconstruct:beetroot_soup"
+  ],
+  "c:ender": [
+   "tconstruct:molten_ender"
+  ],
+  "c:hidden_from_recipe_viewers": [
+   "tconstruct:molten_soulsteel"
+  ],
+  "c:honey": [
+   "tconstruct:honey"
+  ],
+  "c:magma": [
+   "tconstruct:magma"
+  ],
+  "c:molten_aluminum": [
+   "tconstruct:molten_aluminum"
+  ],
+  "c:molten_amethyst_bronze": [
+   "tconstruct:molten_amethyst_bronze"
+  ],
+  "c:molten_bendalloy": [
+   "tconstruct:molten_bendalloy"
+  ],
+  "c:molten_brass": [
+   "tconstruct:molten_brass"
+  ],
+  "c:molten_bronze": [
+   "tconstruct:molten_bronze"
+  ],
+  "c:molten_cadmium": [
+   "tconstruct:molten_cadmium"
+  ],
+  "c:molten_chromium": [
+   "tconstruct:molten_chromium"
+  ],
+  "c:molten_cobalt": [
+   "tconstruct:molten_cobalt"
+  ],
+  "c:molten_constantan": [
+   "tconstruct:molten_constantan"
+  ],
+  "c:molten_copper": [
+   "tconstruct:molten_copper"
+  ],
+  "c:molten_duralumin": [
+   "tconstruct:molten_duralumin"
+  ],
+  "c:molten_electrum": [
+   "tconstruct:molten_electrum"
+  ],
+  "c:molten_enderium": [
+   "tconstruct:molten_enderium"
+  ],
+  "c:molten_gold": [
+   "tconstruct:molten_gold"
+  ],
+  "c:molten_hepatizon": [
+   "tconstruct:molten_hepatizon"
+  ],
+  "c:molten_invar": [
+   "tconstruct:molten_invar"
+  ],
+  "c:molten_iron": [
+   "tconstruct:molten_iron"
+  ],
+  "c:molten_lead": [
+   "tconstruct:molten_lead"
+  ],
+  "c:molten_lumium": [
+   "tconstruct:molten_lumium"
+  ],
+  "c:molten_manyullyn": [
+   "tconstruct:molten_manyullyn"
+  ],
+  "c:molten_netherite": [
+   "tconstruct:molten_netherite"
+  ],
+  "c:molten_nickel": [
+   "tconstruct:molten_nickel"
+  ],
+  "c:molten_nicrosil": [
+   "tconstruct:molten_nicrosil"
+  ],
+  "c:molten_osmium": [
+   "tconstruct:molten_osmium"
+  ],
+  "c:molten_pewter": [
+   "tconstruct:molten_pewter"
+  ],
+  "c:molten_platinum": [
+   "tconstruct:molten_platinum"
+  ],
+  "c:molten_refined_glowstone": [
+   "tconstruct:molten_refined_glowstone"
+  ],
+  "c:molten_refined_obsidian": [
+   "tconstruct:molten_refined_obsidian"
+  ],
+  "c:molten_rose_gold": [
+   "tconstruct:molten_rose_gold"
+  ],
+  "c:molten_signalum": [
+   "tconstruct:molten_signalum"
+  ],
+  "c:molten_silver": [
+   "tconstruct:molten_silver"
+  ],
+  "c:molten_steel": [
+   "tconstruct:molten_steel"
+  ],
+  "c:molten_tin": [
+   "tconstruct:molten_tin"
+  ],
+  "c:molten_tungsten": [
+   "tconstruct:molten_tungsten"
+  ],
+  "c:molten_uranium": [
+   "tconstruct:molten_uranium"
+  ],
+  "c:molten_zinc": [
+   "tconstruct:molten_zinc"
+  ],
+  "c:mushroom_stew": [
+   "tconstruct:mushroom_stew"
+  ],
+  "c:potion": [
+   "tconstruct:potion"
+  ],
+  "c:powdered_snow": [
+   "tconstruct:powdered_snow"
+  ],
+  "c:rabbit_stew": [
+   "tconstruct:rabbit_stew"
+  ],
+  "c:slime": [
+   "tconstruct:earth_slime"
+  ],
+  "mantle:lava": [
+   "minecraft:lava"
+  ],
+  "mantle:soup": [
+   "tconstruct:beetroot_soup",
+   "tconstruct:mushroom_stew",
+   "tconstruct:rabbit_stew",
+   "tconstruct:meat_soup"
+  ],
+  "mantle:water": [
+   "minecraft:water"
+  ],
+  "minecraft:lava": [
+   "minecraft:lava"
+  ],
+  "minecraft:water": [
+   "minecraft:water"
+  ],
+  "tconstruct:beetroot_soup": [
+   "tconstruct:beetroot_soup"
+  ],
+  "tconstruct:blazing_blood": [
+   "tconstruct:blazing_blood"
+  ],
+  "tconstruct:chemthrower_effects/block": [
+   "tconstruct:molten_amethyst",
+   "tconstruct:molten_quartz",
+   "tconstruct:molten_emerald",
+   "tconstruct:molten_diamond",
+   "tconstruct:molten_debris",
+   "tconstruct:fiery_liquid"
+  ],
+  "tconstruct:chemthrower_effects/both": [
+   "tconstruct:earth_slime",
+   "tconstruct:sky_slime",
+   "tconstruct:ichor",
+   "tconstruct:ender_slime",
+   "tconstruct:magma",
+   "tconstruct:molten_ender",
+   "tconstruct:molten_slimesteel",
+   "tconstruct:molten_queens_slime",
+   "tconstruct:molten_cinderslime",
+   "tconstruct:molten_knightslime",
+   "tconstruct:molten_signalum"
+  ],
+  "tconstruct:chemthrower_effects/entity": [
+   "tconstruct:powdered_snow",
+   "tconstruct:blazing_blood",
+   "tconstruct:venom",
+   "tconstruct:molten_glass",
+   "tconstruct:liquid_soul",
+   "tconstruct:molten_obsidian",
+   "tconstruct:molten_clay",
+   "tconstruct:seared_stone",
+   "tconstruct:scorched_stone",
+   "tconstruct:honey",
+   "tconstruct:mushroom_stew",
+   "tconstruct:rabbit_stew",
+   "tconstruct:meat_soup",
+   "tconstruct:molten_copper",
+   "tconstruct:molten_iron",
+   "tconstruct:molten_gold",
+   "tconstruct:molten_zinc",
+   "tconstruct:molten_tin",
+   "tconstruct:molten_aluminum",
+   "tconstruct:molten_silver",
+   "tconstruct:molten_lead",
+   "tconstruct:molten_nickel",
+   "tconstruct:molten_platinum",
+   "tconstruct:molten_tungsten",
+   "tconstruct:molten_osmium",
+   "tconstruct:molten_uranium",
+   "tconstruct:molten_chromium",
+   "tconstruct:molten_cadmium",
+   "tconstruct:molten_amethyst_bronze",
+   "tconstruct:molten_pig_iron",
+   "tconstruct:molten_rose_gold",
+   "tconstruct:molten_cobalt",
+   "tconstruct:molten_steel",
+   "tconstruct:molten_bronze",
+   "tconstruct:molten_brass",
+   "tconstruct:molten_pewter",
+   "tconstruct:molten_invar",
+   "tconstruct:molten_constantan",
+   "tconstruct:molten_manyullyn",
+   "tconstruct:molten_hepatizon",
+   "tconstruct:molten_netherite",
+   "tconstruct:molten_knightmetal",
+   "tconstruct:molten_lumium",
+   "tconstruct:molten_enderium",
+   "tconstruct:molten_refined_glowstone",
+   "tconstruct:molten_refined_obsidian",
+   "tconstruct:molten_nicrosil",
+   "tconstruct:molten_duralumin",
+   "tconstruct:molten_bendalloy",
+   "tconstruct:molten_steeleaf"
+  ],
+  "tconstruct:earth_slime": [
+   "tconstruct:earth_slime"
+  ],
+  "tconstruct:ender_slime": [
+   "tconstruct:ender_slime"
+  ],
+  "tconstruct:fiery_liquid": [
+   "tconstruct:fiery_liquid"
+  ],
+  "tconstruct:hide_in_creative_tanks": [
+   "tconstruct:potion",
+   "tconstruct:molten_soulsteel"
+  ],
+  "tconstruct:honey": [
+   "tconstruct:honey"
+  ],
+  "tconstruct:ichor": [
+   "tconstruct:ichor"
+  ],
+  "tconstruct:liquid_soul": [
+   "tconstruct:liquid_soul"
+  ],
+  "tconstruct:magma": [
+   "tconstruct:magma"
+  ],
+  "tconstruct:meat_soup": [
+   "tconstruct:meat_soup"
+  ],
+  "tconstruct:molten_aluminum": [
+   "tconstruct:molten_aluminum"
+  ],
+  "tconstruct:molten_amethyst": [
+   "tconstruct:molten_amethyst"
+  ],
+  "tconstruct:molten_amethyst_bronze": [
+   "tconstruct:molten_amethyst_bronze"
+  ],
+  "tconstruct:molten_bendalloy": [
+   "tconstruct:molten_bendalloy"
+  ],
+  "tconstruct:molten_brass": [
+   "tconstruct:molten_brass"
+  ],
+  "tconstruct:molten_bronze": [
+   "tconstruct:molten_bronze"
+  ],
+  "tconstruct:molten_cadmium": [
+   "tconstruct:molten_cadmium"
+  ],
+  "tconstruct:molten_chromium": [
+   "tconstruct:molten_chromium"
+  ],
+  "tconstruct:molten_cinderslime": [
+   "tconstruct:molten_cinderslime"
+  ],
+  "tconstruct:molten_clay": [
+   "tconstruct:molten_clay"
+  ],
+  "tconstruct:molten_cobalt": [
+   "tconstruct:molten_cobalt"
+  ],
+  "tconstruct:molten_constantan": [
+   "tconstruct:molten_constantan"
+  ],
+  "tconstruct:molten_copper": [
+   "tconstruct:molten_copper"
+  ],
+  "tconstruct:molten_debris": [
+   "tconstruct:molten_debris"
+  ],
+  "tconstruct:molten_diamond": [
+   "tconstruct:molten_diamond"
+  ],
+  "tconstruct:molten_duralumin": [
+   "tconstruct:molten_duralumin"
+  ],
+  "tconstruct:molten_electrum": [
+   "tconstruct:molten_electrum"
+  ],
+  "tconstruct:molten_emerald": [
+   "tconstruct:molten_emerald"
+  ],
+  "tconstruct:molten_ender": [
+   "tconstruct:molten_ender"
+  ],
+  "tconstruct:molten_enderium": [
+   "tconstruct:molten_enderium"
+  ],
+  "tconstruct:molten_glass": [
+   "tconstruct:molten_glass"
+  ],
+  "tconstruct:molten_gold": [
+   "tconstruct:molten_gold"
+  ],
+  "tconstruct:molten_hepatizon": [
+   "tconstruct:molten_hepatizon"
+  ],
+  "tconstruct:molten_invar": [
+   "tconstruct:molten_invar"
+  ],
+  "tconstruct:molten_iron": [
+   "tconstruct:molten_iron"
+  ],
+  "tconstruct:molten_knightmetal": [
+   "tconstruct:molten_knightmetal"
+  ],
+  "tconstruct:molten_knightslime": [
+   "tconstruct:molten_knightslime"
+  ],
+  "tconstruct:molten_lead": [
+   "tconstruct:molten_lead"
+  ],
+  "tconstruct:molten_lumium": [
+   "tconstruct:molten_lumium"
+  ],
+  "tconstruct:molten_manyullyn": [
+   "tconstruct:molten_manyullyn"
+  ],
+  "tconstruct:molten_netherite": [
+   "tconstruct:molten_netherite"
+  ],
+  "tconstruct:molten_nickel": [
+   "tconstruct:molten_nickel"
+  ],
+  "tconstruct:molten_nicrosil": [
+   "tconstruct:molten_nicrosil"
+  ],
+  "tconstruct:molten_obsidian": [
+   "tconstruct:molten_obsidian"
+  ],
+  "tconstruct:molten_osmium": [
+   "tconstruct:molten_osmium"
+  ],
+  "tconstruct:molten_pewter": [
+   "tconstruct:molten_pewter"
+  ],
+  "tconstruct:molten_pig_iron": [
+   "tconstruct:molten_pig_iron"
+  ],
+  "tconstruct:molten_platinum": [
+   "tconstruct:molten_platinum"
+  ],
+  "tconstruct:molten_porcelain": [
+   "tconstruct:molten_porcelain"
+  ],
+  "tconstruct:molten_quartz": [
+   "tconstruct:molten_quartz"
+  ],
+  "tconstruct:molten_queens_slime": [
+   "tconstruct:molten_queens_slime"
+  ],
+  "tconstruct:molten_refined_glowstone": [
+   "tconstruct:molten_refined_glowstone"
+  ],
+  "tconstruct:molten_refined_obsidian": [
+   "tconstruct:molten_refined_obsidian"
+  ],
+  "tconstruct:molten_rose_gold": [
+   "tconstruct:molten_rose_gold"
+  ],
+  "tconstruct:molten_signalum": [
+   "tconstruct:molten_signalum"
+  ],
+  "tconstruct:molten_silver": [
+   "tconstruct:molten_silver"
+  ],
+  "tconstruct:molten_slimesteel": [
+   "tconstruct:molten_slimesteel"
+  ],
+  "tconstruct:molten_soulsteel": [
+   "tconstruct:molten_soulsteel"
+  ],
+  "tconstruct:molten_steel": [
+   "tconstruct:molten_steel"
+  ],
+  "tconstruct:molten_steeleaf": [
+   "tconstruct:molten_steeleaf"
+  ],
+  "tconstruct:molten_tin": [
+   "tconstruct:molten_tin"
+  ],
+  "tconstruct:molten_tungsten": [
+   "tconstruct:molten_tungsten"
+  ],
+  "tconstruct:molten_uranium": [
+   "tconstruct:molten_uranium"
+  ],
+  "tconstruct:molten_zinc": [
+   "tconstruct:molten_zinc"
+  ],
+  "tconstruct:mushroom_stew": [
+   "tconstruct:mushroom_stew"
+  ],
+  "tconstruct:rabbit_stew": [
+   "tconstruct:rabbit_stew"
+  ],
+  "tconstruct:scorched_stone": [
+   "tconstruct:scorched_stone"
+  ],
+  "tconstruct:seared_stone": [
+   "tconstruct:seared_stone"
+  ],
+  "tconstruct:sky_slime": [
+   "tconstruct:sky_slime"
+  ],
+  "tconstruct:slime": [
+   "tconstruct:earth_slime",
+   "tconstruct:sky_slime",
+   "tconstruct:ichor",
+   "tconstruct:ender_slime"
+  ],
+  "tconstruct:swasher/drowned": [
+   "minecraft:lava",
+   "tconstruct:powdered_snow",
+   "tconstruct:molten_glass",
+   "tconstruct:molten_obsidian"
+  ],
+  "tconstruct:swasher/wither_skeleton": [
+   "minecraft:lava",
+   "tconstruct:blazing_blood",
+   "tconstruct:liquid_soul",
+   "tconstruct:magma"
+  ],
+  "tconstruct:tooltips/bottle": [
+   "tconstruct:venom",
+   "tconstruct:fiery_liquid"
+  ],
+  "tconstruct:tooltips/clay": [
+   "tconstruct:molten_clay",
+   "tconstruct:molten_porcelain",
+   "tconstruct:seared_stone",
+   "tconstruct:scorched_stone"
+  ],
+  "tconstruct:tooltips/gem_large": [
+   "tconstruct:molten_emerald",
+   "tconstruct:molten_diamond"
+  ],
+  "tconstruct:tooltips/gem_small": [
+   "tconstruct:molten_quartz",
+   "tconstruct:molten_amethyst"
+  ],
+  "tconstruct:tooltips/glass": [
+   "tconstruct:molten_glass",
+   "tconstruct:liquid_soul",
+   "tconstruct:molten_obsidian"
+  ],
+  "tconstruct:tooltips/metal": [
+   "tconstruct:molten_iron",
+   "tconstruct:molten_gold",
+   "tconstruct:molten_copper",
+   "tconstruct:molten_cobalt",
+   "tconstruct:molten_steel",
+   "tconstruct:molten_debris",
+   "tconstruct:molten_slimesteel",
+   "tconstruct:molten_amethyst_bronze",
+   "tconstruct:molten_rose_gold",
+   "tconstruct:molten_pig_iron",
+   "tconstruct:molten_manyullyn",
+   "tconstruct:molten_hepatizon",
+   "tconstruct:molten_queens_slime",
+   "tconstruct:molten_cinderslime",
+   "tconstruct:molten_netherite",
+   "tconstruct:molten_soulsteel",
+   "tconstruct:molten_knightmetal",
+   "tconstruct:molten_knightslime",
+   "tconstruct:molten_tin",
+   "tconstruct:molten_aluminum",
+   "tconstruct:molten_lead",
+   "tconstruct:molten_silver",
+   "tconstruct:molten_nickel",
+   "tconstruct:molten_zinc",
+   "tconstruct:molten_platinum",
+   "tconstruct:molten_tungsten",
+   "tconstruct:molten_osmium",
+   "tconstruct:molten_uranium",
+   "tconstruct:molten_chromium",
+   "tconstruct:molten_cadmium",
+   "tconstruct:molten_bronze",
+   "tconstruct:molten_brass",
+   "tconstruct:molten_electrum",
+   "tconstruct:molten_invar",
+   "tconstruct:molten_constantan",
+   "tconstruct:molten_pewter",
+   "tconstruct:molten_enderium",
+   "tconstruct:molten_lumium",
+   "tconstruct:molten_signalum",
+   "tconstruct:molten_refined_glowstone",
+   "tconstruct:molten_refined_obsidian",
+   "tconstruct:molten_nicrosil",
+   "tconstruct:molten_duralumin",
+   "tconstruct:molten_bendalloy",
+   "tconstruct:molten_steeleaf"
+  ],
+  "tconstruct:tooltips/slime": [
+   "tconstruct:magma",
+   "tconstruct:molten_ender",
+   "tconstruct:earth_slime",
+   "tconstruct:sky_slime",
+   "tconstruct:ichor",
+   "tconstruct:ender_slime"
+  ],
+  "tconstruct:venom": [
+   "tconstruct:venom"
+  ]
+ },
+ "textures": {
+  "tconstruct:beetroot_soup": {
+   "color": 4286846477,
+   "flowing": "tconstruct:block/fluid/food/stew/flowing",
+   "still": "tconstruct:block/fluid/food/stew/still"
+  },
+  "tconstruct:blazing_blood": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/blaze/flowing",
+   "still": "tconstruct:block/fluid/molten/blaze/still"
+  },
+  "tconstruct:earth_slime": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/earth/flowing",
+   "still": "tconstruct:block/fluid/slime/earth/still"
+  },
+  "tconstruct:ender_slime": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/ender/flowing",
+   "still": "tconstruct:block/fluid/slime/ender/still"
+  },
+  "tconstruct:fiery_liquid": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/fiery/flowing",
+   "still": "tconstruct:block/fluid/slime/fiery/still"
+  },
+  "tconstruct:honey": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/food/honey/flowing",
+   "still": "tconstruct:block/fluid/food/honey/still"
+  },
+  "tconstruct:ichor": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/ichor/flowing",
+   "still": "tconstruct:block/fluid/slime/ichor/still"
+  },
+  "tconstruct:liquid_soul": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/soul/flowing",
+   "still": "tconstruct:block/fluid/slime/soul/still"
+  },
+  "tconstruct:magma": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/magma/flowing",
+   "still": "tconstruct:block/fluid/slime/magma/still"
+  },
+  "tconstruct:meat_soup": {
+   "color": 4292886069,
+   "flowing": "tconstruct:block/fluid/food/stew/flowing",
+   "still": "tconstruct:block/fluid/food/stew/still"
+  },
+  "tconstruct:molten_aluminum": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/aluminum/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/aluminum/still"
+  },
+  "tconstruct:molten_amethyst": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/amethyst/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/amethyst/still"
+  },
+  "tconstruct:molten_amethyst_bronze": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/amethyst_bronze/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/amethyst_bronze/still"
+  },
+  "tconstruct:molten_bendalloy": {
+   "color": 4292268737,
+   "flowing": "tconstruct:block/fluid/molten/flowing",
+   "still": "tconstruct:block/fluid/molten/still"
+  },
+  "tconstruct:molten_brass": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/brass/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/brass/still"
+  },
+  "tconstruct:molten_bronze": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/bronze/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/bronze/still"
+  },
+  "tconstruct:molten_cadmium": {
+   "color": 4287281352,
+   "flowing": "tconstruct:block/fluid/molten/flowing",
+   "still": "tconstruct:block/fluid/molten/still"
+  },
+  "tconstruct:molten_chromium": {
+   "color": 4291080576,
+   "flowing": "tconstruct:block/fluid/molten/flowing",
+   "still": "tconstruct:block/fluid/molten/still"
+  },
+  "tconstruct:molten_cinderslime": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/cinderslime/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/cinderslime/still"
+  },
+  "tconstruct:molten_clay": {
+   "color": 4288372805,
+   "flowing": "tconstruct:block/fluid/molten/stone/flowing",
+   "still": "tconstruct:block/fluid/molten/stone/still"
+  },
+  "tconstruct:molten_cobalt": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/cobalt/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/cobalt/still"
+  },
+  "tconstruct:molten_constantan": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/constantan/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/constantan/still"
+  },
+  "tconstruct:molten_copper": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/copper/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/copper/still"
+  },
+  "tconstruct:molten_debris": {
+   "color": 4282457621,
+   "flowing": "tconstruct:block/fluid/molten/stone/flowing",
+   "still": "tconstruct:block/fluid/molten/stone/still"
+  },
+  "tconstruct:molten_diamond": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/diamond/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/diamond/still"
+  },
+  "tconstruct:molten_duralumin": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/duralumin/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/duralumin/still"
+  },
+  "tconstruct:molten_electrum": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/electrum/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/electrum/still"
+  },
+  "tconstruct:molten_emerald": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/emerald/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/emerald/still"
+  },
+  "tconstruct:molten_ender": {
+   "color": 4279262801,
+   "flowing": "tconstruct:block/fluid/molten/stone/flowing",
+   "still": "tconstruct:block/fluid/molten/stone/still"
+  },
+  "tconstruct:molten_enderium": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/enderium/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/enderium/still"
+  },
+  "tconstruct:molten_glass": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/glass/flowing",
+   "still": "tconstruct:block/fluid/molten/glass/still"
+  },
+  "tconstruct:molten_gold": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/gold/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/gold/still"
+  },
+  "tconstruct:molten_hepatizon": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/hepatizon/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/hepatizon/still"
+  },
+  "tconstruct:molten_invar": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/invar/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/invar/still"
+  },
+  "tconstruct:molten_iron": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/iron/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/iron/still"
+  },
+  "tconstruct:molten_knightmetal": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/knightmetal/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/knightmetal/still"
+  },
+  "tconstruct:molten_knightslime": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/knightslime/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/knightslime/still"
+  },
+  "tconstruct:molten_lead": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/lead/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/lead/still"
+  },
+  "tconstruct:molten_lumium": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/lumium/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/lumium/still"
+  },
+  "tconstruct:molten_manyullyn": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/manyullyn/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/manyullyn/still"
+  },
+  "tconstruct:molten_netherite": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/netherite/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/netherite/still"
+  },
+  "tconstruct:molten_nickel": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/nickel/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/nickel/still"
+  },
+  "tconstruct:molten_nicrosil": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/nicrosil/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/nicrosil/still"
+  },
+  "tconstruct:molten_obsidian": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/stone/obsidian/flowing",
+   "still": "tconstruct:block/fluid/molten/stone/obsidian/still"
+  },
+  "tconstruct:molten_osmium": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/osmium/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/osmium/still"
+  },
+  "tconstruct:molten_pewter": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/pewter/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/pewter/still"
+  },
+  "tconstruct:molten_pig_iron": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/pig_iron/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/pig_iron/still"
+  },
+  "tconstruct:molten_platinum": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/platinum/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/platinum/still"
+  },
+  "tconstruct:molten_porcelain": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/stone/porcelain/flowing",
+   "still": "tconstruct:block/fluid/molten/stone/porcelain/still"
+  },
+  "tconstruct:molten_quartz": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/quartz/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/quartz/still"
+  },
+  "tconstruct:molten_queens_slime": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/queens_slime/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/queens_slime/still"
+  },
+  "tconstruct:molten_refined_glowstone": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/refined_glowstone/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/refined_glowstone/still"
+  },
+  "tconstruct:molten_refined_obsidian": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/refined_obsidian/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/refined_obsidian/still"
+  },
+  "tconstruct:molten_rose_gold": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/rose_gold/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/rose_gold/still"
+  },
+  "tconstruct:molten_signalum": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_alloy/signalum/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_alloy/signalum/still"
+  },
+  "tconstruct:molten_silver": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/silver/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/silver/still"
+  },
+  "tconstruct:molten_slimesteel": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/slimesteel/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/slimesteel/still"
+  },
+  "tconstruct:molten_soulsteel": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/alloy/soulsteel/flowing",
+   "still": "tconstruct:block/fluid/molten/alloy/soulsteel/still"
+  },
+  "tconstruct:molten_steel": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/ore/steel/flowing",
+   "still": "tconstruct:block/fluid/molten/ore/steel/still"
+  },
+  "tconstruct:molten_steeleaf": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/steeleaf/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/steeleaf/still"
+  },
+  "tconstruct:molten_tin": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/tin/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/tin/still"
+  },
+  "tconstruct:molten_tungsten": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/tungsten/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/tungsten/still"
+  },
+  "tconstruct:molten_uranium": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/uranium/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/uranium/still"
+  },
+  "tconstruct:molten_zinc": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/molten/compat_ore/zinc/flowing",
+   "still": "tconstruct:block/fluid/molten/compat_ore/zinc/still"
+  },
+  "tconstruct:mushroom_stew": {
+   "color": 4291660911,
+   "flowing": "tconstruct:block/fluid/food/stew/flowing",
+   "still": "tconstruct:block/fluid/food/stew/still"
+  },
+  "tconstruct:potion": {
+   "color": 4294443256,
+   "flowing": "tconstruct:block/fluid/potion/flowing",
+   "still": "tconstruct:block/fluid/potion/still"
+  },
+  "tconstruct:powdered_snow": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/powdered_snow/flowing",
+   "still": "tconstruct:block/fluid/powdered_snow/still"
+  },
+  "tconstruct:rabbit_stew": {
+   "color": 4288170540,
+   "flowing": "tconstruct:block/fluid/food/stew/flowing",
+   "still": "tconstruct:block/fluid/food/stew/still"
+  },
+  "tconstruct:scorched_stone": {
+   "color": 4282265641,
+   "flowing": "tconstruct:block/fluid/molten/stone/flowing",
+   "still": "tconstruct:block/fluid/molten/stone/still"
+  },
+  "tconstruct:seared_stone": {
+   "color": 4283386439,
+   "flowing": "tconstruct:block/fluid/molten/stone/flowing",
+   "still": "tconstruct:block/fluid/molten/stone/still"
+  },
+  "tconstruct:sky_slime": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/sky/flowing",
+   "still": "tconstruct:block/fluid/slime/sky/still"
+  },
+  "tconstruct:venom": {
+   "color": 4294967295,
+   "flowing": "tconstruct:block/fluid/slime/venom/flowing",
+   "still": "tconstruct:block/fluid/slime/venom/still"
+  }
+ },
+ "unit_lists": [
+  {
+   "fluids": [
+    "tconstruct:honey"
+   ],
+   "id": "mantle:honey",
+   "units": [
+    [
+     "gui.mantle.fluid.bucket",
+     1000
+    ],
+    [
+     "gui.mantle.fluid.bottle",
+     250
+    ],
+    [
+     "gui.mantle.fluid.sip",
+     50
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:potion"
+   ],
+   "id": "mantle:potion",
+   "units": [
+    [
+     "gui.mantle.fluid.bottle",
+     250
+    ],
+    [
+     "gui.mantle.fluid.sip",
+     50
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:beetroot_soup",
+    "tconstruct:mushroom_stew",
+    "tconstruct:rabbit_stew",
+    "tconstruct:meat_soup"
+   ],
+   "id": "mantle:soup",
+   "units": [
+    [
+     "gui.mantle.fluid.bowl",
+     250
+    ],
+    [
+     "gui.mantle.fluid.sip",
+     50
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "minecraft:water"
+   ],
+   "id": "mantle:water",
+   "units": [
+    [
+     "gui.mantle.fluid.bucket",
+     1000
+    ],
+    [
+     "gui.mantle.fluid.bottle",
+     250
+    ],
+    [
+     "gui.mantle.fluid.drop",
+     50
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:venom",
+    "tconstruct:fiery_liquid"
+   ],
+   "id": "tconstruct:bottle",
+   "units": [
+    [
+     "gui.mantle.fluid.bucket",
+     1000
+    ],
+    [
+     "gui.mantle.fluid.bottle",
+     250
+    ],
+    [
+     "gui.mantle.fluid.drop",
+     50
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:molten_clay",
+    "tconstruct:molten_porcelain",
+    "tconstruct:seared_stone",
+    "tconstruct:scorched_stone"
+   ],
+   "id": "tconstruct:clay",
+   "units": [
+    [
+     "gui.tconstruct.fluid.block",
+     1000
+    ],
+    [
+     "gui.tconstruct.fluid.brick",
+     250
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:molten_glass",
+    "tconstruct:liquid_soul",
+    "tconstruct:molten_obsidian"
+   ],
+   "id": "tconstruct:glass",
+   "units": [
+    [
+     "gui.tconstruct.fluid.block",
+     1000
+    ],
+    [
+     "gui.tconstruct.fluid.pane",
+     250
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:molten_emerald",
+    "tconstruct:molten_diamond"
+   ],
+   "id": "tconstruct:large_gems",
+   "units": [
+    [
+     "gui.tconstruct.fluid.block",
+     900
+    ],
+    [
+     "gui.tconstruct.fluid.gem",
+     100
+    ],
+    [
+     "gui.tconstruct.fluid.shard",
+     25
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:molten_iron",
+    "tconstruct:molten_gold",
+    "tconstruct:molten_copper",
+    "tconstruct:molten_cobalt",
+    "tconstruct:molten_steel",
+    "tconstruct:molten_debris",
+    "tconstruct:molten_slimesteel",
+    "tconstruct:molten_amethyst_bronze",
+    "tconstruct:molten_rose_gold",
+    "tconstruct:molten_pig_iron",
+    "tconstruct:molten_manyullyn",
+    "tconstruct:molten_hepatizon",
+    "tconstruct:molten_queens_slime",
+    "tconstruct:molten_cinderslime",
+    "tconstruct:molten_netherite",
+    "tconstruct:molten_soulsteel",
+    "tconstruct:molten_knightmetal",
+    "tconstruct:molten_knightslime",
+    "tconstruct:molten_tin",
+    "tconstruct:molten_aluminum",
+    "tconstruct:molten_lead",
+    "tconstruct:molten_silver",
+    "tconstruct:molten_nickel",
+    "tconstruct:molten_zinc",
+    "tconstruct:molten_platinum",
+    "tconstruct:molten_tungsten",
+    "tconstruct:molten_osmium",
+    "tconstruct:molten_uranium",
+    "tconstruct:molten_chromium",
+    "tconstruct:molten_cadmium",
+    "tconstruct:molten_bronze",
+    "tconstruct:molten_brass",
+    "tconstruct:molten_electrum",
+    "tconstruct:molten_invar",
+    "tconstruct:molten_constantan",
+    "tconstruct:molten_pewter",
+    "tconstruct:molten_enderium",
+    "tconstruct:molten_lumium",
+    "tconstruct:molten_signalum",
+    "tconstruct:molten_refined_glowstone",
+    "tconstruct:molten_refined_obsidian",
+    "tconstruct:molten_nicrosil",
+    "tconstruct:molten_duralumin",
+    "tconstruct:molten_bendalloy",
+    "tconstruct:molten_steeleaf"
+   ],
+   "id": "tconstruct:metals",
+   "units": [
+    [
+     "gui.tconstruct.fluid.block",
+     810
+    ],
+    [
+     "gui.tconstruct.fluid.ingot",
+     90
+    ],
+    [
+     "gui.tconstruct.fluid.nugget",
+     10
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:magma",
+    "tconstruct:molten_ender",
+    "tconstruct:earth_slime",
+    "tconstruct:sky_slime",
+    "tconstruct:ichor",
+    "tconstruct:ender_slime"
+   ],
+   "id": "tconstruct:slime",
+   "units": [
+    [
+     "gui.tconstruct.fluid.block",
+     2250
+    ],
+    [
+     "gui.tconstruct.fluid.slimeball",
+     250
+    ],
+    [
+     "gui.mantle.fluid.drop",
+     50
+    ]
+   ]
+  },
+  {
+   "fluids": [
+    "tconstruct:molten_quartz",
+    "tconstruct:molten_amethyst"
+   ],
+   "id": "tconstruct:small_gems",
+   "units": [
+    [
+     "gui.tconstruct.fluid.block",
+     400
+    ],
+    [
+     "gui.tconstruct.fluid.gem",
+     100
+    ],
+    [
+     "gui.tconstruct.fluid.shard",
+     25
+    ]
+   ]
+  }
+ ]
+}

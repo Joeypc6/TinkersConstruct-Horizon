@@ -1,0 +1,5 @@
+Tinkers' Construct for Horizon is a port of Tinkers' Construct 1.20.1-3.12.1.231 by SlimeKnights
+(https://github.com/SlimeKnights/TinkersConstruct), released under the MIT License (see LICENSE). It relies on
+Mantle 1.20.1-1.11.128 by SlimeKnights (https://github.com/SlimeKnights/Mantle, MIT). The Rust code is a rewrite
+for Horizon; textures, models, recipes, books and language files are the original mod's, converted to Minecraft
+26.x formats by the tools in this repository.
