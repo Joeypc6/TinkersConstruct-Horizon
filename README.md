@@ -26,3 +26,10 @@ language files are the original mod's.
   written as engine mixins (`tools/paused.py`).
 - The fancy item frames and armour stands aren't there yet (same reason).
 - Built for Horizon fdc87ae (Nightly 2026-11-08); see `horizon-native.json`.
+
+## Tested
+
+In game on Horizon `fdc87ae` builds this week (the last, `native-fdc87ae-83d10460ef68`, with the nine other ports): the W guide's pages and 3D scenes
+(smeltery, foundry, stations, islands, geodes), the fluid buckets and copper cans, JEI's casting and melting cards, slime foliage tinted
+by position, the fishing rod catching fish, the longbow and ballista, foods and the cheese block, mob heads, and the geodes, cobalt
+and trees in the world.
